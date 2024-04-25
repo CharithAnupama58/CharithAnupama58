@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Charith Anupama</h1>
-<h3 align="center">I'm Charith Anupama, a 21-year old undergratuate student at Ijse.</h3>
+<h3 align="center">I'm Charith Anupama, a 24-year old undergratuate student at University Of Kelaniya.</h3>
 
 
 
-- 🔭 I’m study at Ijse.
+- 🔭 I’m study at University Of Kelaniya.
 
 - 🌱 I’m currently learning JavaScript
 
